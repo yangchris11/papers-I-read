@@ -3,16 +3,21 @@ ML/DL/NLP/CV Paper I Read
 
 ### CV: Computer Vision
 
-#### Attntion Model 
+#### Atetntion Model 
 1. **Recurrent Models of Visual Attention**
+*Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu.* NIPS'14. [[paper]](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 
 1. **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
+*Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio.* ICML'15. [[paper]](https://arxiv.org/pdf/1502.03044.pdf)
 
 1. **Attention is all you need**
+*Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.*  NIPS'17. [[paper]](https://arxiv.org/pdf/1706.03762.pdf)
 
 1. **Residual Attention Network for Image Classification**
+*Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang.* CVPR'17. [[paper]](https://arxiv.org/pdf/1704.06904.pdf)
 
 1. **Learn to Pay Attention**
+*Saumya Jetley, Nicholas A. Lord, Namhoon Lee, Philip H.S. Torr.* ICLR'18. [[paper]](https://arxiv.org/pdf/1804.02391.pdf)
 
 #### Mdeical Image
 1. **AggNet: Deep Learning From Crowds for Mitosis Detection in Breast Cancer Histology Images**
