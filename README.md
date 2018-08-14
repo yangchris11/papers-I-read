@@ -1,6 +1,28 @@
 # papers-I-read
 ML/DL/NLP/CV Paper I Read
 
+### CV: Computer Vision
+
+#### Attntion Model 
+1. **Recurrent Models of Visual Attention**
+
+1. **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**
+
+1. **Attention is all you need**
+
+1. **Residual Attention Network for Image Classification**
+
+1. **Learn to Pay Attention**
+
+#### Mdeical Image
+1. **AggNet: Deep Learning From Crowds for Mitosis Detection in Breast Cancer Histology Images**
+
+1. **Attention U-Net: Learning Where to Look for the Pancreas**
+
+1. **Attention-Gated Networks for Improving Ultrasound Scan Plane Detection**
+
+
+#### Generative Adverserial Network
 
 ### KRL/KE: Knowledge Representation Learning/Knowledge Embedding
 1. **TransE: Translating Embeddings for Modeling Multi-relational Data.**
