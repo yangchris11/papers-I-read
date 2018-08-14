@@ -14,3 +14,10 @@ ML/DL/NLP/CV Paper I Read
 
 1. **TransD: Knowledge Graph Embedding via Dynamic Mapping Matrix.**
 *Guoliang Ji, Shizhu He, Liheng Xu, Kang Liu, Jun Zhao.* ACL 2015. [paper](http://anthology.aclweb.org/P/P15/P15-1067.pdf) [KB2E](https://github.com/thunlp/KB2E) [OpenKE](https://github.com/thunlp/OpenKE)
+
+1. **ConvE: Convolutional 2D Knowledge Graph Embeddings.**
+*Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel.* AAAI 2018. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17366/15884) [code](https://github.com/TimDettmers/ConvE)
+
+1. **ConvKB: A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network.**
+*Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung.* NAACL-HLT 2018. [paper](http://aclweb.org/anthology/N18-2053)
+
