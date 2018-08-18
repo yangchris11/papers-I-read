@@ -23,8 +23,10 @@ ML/DL/NLP/CV Paper I Read
 1. **AggNet: Deep Learning From Crowds for Mitosis Detection in Breast Cancer Histology Images**
 
 1. **Attention U-Net: Learning Where to Look for the Pancreas**
+*Ozan Oktay, Jo Schlemper, Loic Le Folgoc, Matthew Lee, Mattias Heinrich, Kazunari Misawa, Kensaku Mori, Steven McDonagh, Nils Y Hammerla, Bernhard Kainz, Ben Glocker, Daniel Rueckert.* MIDL'18. [[paper]](https://arxiv.org/pdf/1804.03999.pdf)
 
 1. **Attention-Gated Networks for Improving Ultrasound Scan Plane Detection**
+*Jo Schlemper, Ozan Oktay, Liang Chen, Jacqueline Matthew, Caroline Knight, Bernhard Kainz, Ben Glocker, Daniel Rueckert.* MIDL'18. [[paper]](https://arxiv.org/pdf/1804.05338.pdf)
 
 
 #### Generative Adverserial Network
