@@ -19,6 +19,11 @@ ML/DL/NLP/CV Paper I Read
 1. **Learn to Pay Attention**
 *Saumya Jetley, Nicholas A. Lord, Namhoon Lee, Philip H.S. Torr.* ICLR'18. [[paper]](https://arxiv.org/pdf/1804.02391.pdf)
 
+#### Segmentation
+
+1. **Deep Interactive Object Selection** 
+*Ning Xu, Brian Price, Scott Cohen, Jimei Yang, Thomas Huang.* CVPR'16 [[paper]](https://arxiv.org/pdf/1603.04042.pdf)
+
 #### Mdeical Image
 1. **AggNet: Deep Learning From Crowds for Mitosis Detection in Breast Cancer Histology Images**
 
