@@ -19,6 +19,9 @@ ML/DL/NLP/CV Paper I Read
 1. **Learn to Pay Attention**
 *Saumya Jetley, Nicholas A. Lord, Namhoon Lee, Philip H.S. Torr.* ICLR'18. [[paper]](https://arxiv.org/pdf/1804.02391.pdf)
 
+1. **CBAM: Convolutional Block Attention Module**
+*Sanghyun Woo, Jongchan Park, Joon-Young Lee, In So Kweon.* ECCV'18. [[paper]](https://arxiv.org/pdf/1807.06521.pdf)
+
 #### Segmentation
 
 1. **Deep Interactive Object Selection** 
