@@ -1,6 +1,25 @@
 # papers-I-read
 ML/DL/NLP/CV Paper I Read
 
+### NLP
+
+#### Speaker Separation
+
+1. **Deep clustering: Discriminative embeddings for segmentation and separation**
+*John R. Hershey, Zhuo Chen, Jonathan Le Roux, Shinji Watanabe.* [[paper]](https://arxiv.org/pdf/1508.04306.pdf)
+
+1. **Permutation Invariant Training of Deep Models for Speaker-Independent Multi-talker Speech Separation**
+*Dong Yu, Morten Kolbæk, Zheng-Hua Tan, Jesper Jensen.* [[paper]](https://arxiv.org/pdf/1607.00325.pdf)
+
+1. **Single-Channel Multi-Speaker Separation using Deep Clustering**
+*Yusuf Isik, Jonathan Le Roux, Zhuo Chen, Shinji Watanabe, John R. Hershey.* [[paper]](https://arxiv.org/pdf/1607.02173.pdf)
+
+1. **Multitalker Speech Separation With Utterance-Level Permutation Invariant Training of Deep Recurrent Neural Networks**
+*Morten Kolbæk, Dong Yu, Zheng-Hua Tan, Jesper Jensen.* [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7979557)
+
+1. **Speaker-independent Speech Separation with Deep Attractor Network**
+*Yi Luo, Zhuo Chen, and Nima Mesgarani.* [[paper]](https://arxiv.org/pdf/1707.03634.pdf)
+
 ### CV: Computer Vision
 
 #### Atetntion Model 
